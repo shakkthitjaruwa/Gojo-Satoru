@@ -1,8 +1,8 @@
 <p align="center">
-<img src="[https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg]([https://i.ibb.co/cyyC)" alt="nz" width="350"/>
+<img src="[https://i.ibb.co/cyyCjN7/20220803-081426.png]([https://i.ibb.co/cyyC)" alt="nz" width="350"/>
 </p>
 
-## Gojo-Satoru
+## THARUWA-MD
 
 > <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["94768705106"]
+global.ownername = ["THARUWA-MD"]
 ```
 </details>
 
