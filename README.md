@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://i.ibb.co/cyyCjN7/20220803-081426.png]([https://i.ibb.co/cyyC)" alt="nz" width="350"/>
+<img src="[https://i.ibb.co/cyyCjN7/20220803-081426.jpg]([https://i.ibb.co/cyyC)" alt="nz" width="350"/>
 </p>
 
 ## THARUWA-MD
